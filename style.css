@@ -170,14 +170,14 @@ a {
         min-width: fit-content;
     }
     .card-banner {
-        min-width: fit-content;
+        width: 80%;
         min-height: fit-content;
     }
 
     .card-body {
         min-width: fit-content;
         min-height: fit-content;
-        font-size: 12pt;
+        font-size: 10pt;
     }
 
     .social {
@@ -201,7 +201,7 @@ a {
     }
 
     .profile {
-        min-width: 80px;
-        min-height: 80px
+        width: 70px;
+        height: 70px
     }
 }
