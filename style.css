@@ -187,6 +187,7 @@ a {
     }
 
     .social {
+        height: fit-content;
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -197,7 +198,7 @@ a {
         width: fit-content;
     }
     .social-links {
-        margin-top: 10%;
+        margin-top: 5%;
         /* font-size: small; */
     }
     .social-img {
