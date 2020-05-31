@@ -166,12 +166,9 @@ a {
     .card{
         width:75%;
         height: 65vh;
-        
     }
 
     .cbanner-info {
-        /* font-size: small; */
-        /* min-height: 70%; */
         height: fit-content;
         font-size: 8pt;
     }
